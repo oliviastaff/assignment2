@@ -10,3 +10,15 @@ img {
 #special-pic {
     box-shadow: 4px 4px orange;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+h2{
+    padding-left: 25px;
+}
+
+html {
+    font-family: helvetica;
+}
