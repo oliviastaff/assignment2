@@ -4,16 +4,13 @@
 }
 
 img {
-    box-shadow: 5px 5px #FF0000;
+    box-shadow: 5px 5px orange;
 }
 
 #special-pic {
     box-shadow: 4px 4px orange;
 }
 
-* {
-    box-sizing: border-box;
-}
 
 h2{
     padding-left: 25px;
